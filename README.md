@@ -1,4 +1,5 @@
-### Hi there, welcome to my profile, where you'll hopefully 'git' to know me better -- pun intended.
+### Hi there, welcome to my profile, where you'll hopefully 'git' to know me better 
+-- pun intended.
 
 ![my-stack-cover.png](https://drive.google.com/uc?id=15KN7u7nQTkH6_qe67qv01RwrWvKcc4zf)
 
