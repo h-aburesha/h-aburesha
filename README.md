@@ -1,5 +1,5 @@
-### Hi there, 
-##### Welcome to my profile, where you'll hopefully 'git' to know me better 
+### Hi there 
+#### Welcome to my profile, where you'll hopefully 'git' to know me better 
 -- pun intended.
 
 ![my-stack-cover.png](https://s3.amazonaws.com/spicedling/gFOfFA91YkNSLEeHm4IFcvM8EYnz5oq2.png)
