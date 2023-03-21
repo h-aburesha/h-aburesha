@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there! 
 #### Welcome to my profile, where you'll hopefully 'git' to know me better 
 -- pun intended.
 
