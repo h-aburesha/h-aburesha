@@ -1,11 +1,11 @@
 
 ### Hi there! 
 #### Welcome to my profile, where you'll hopefully 'git' to know me better (pun intended).
-<p align="center">
+
 ![my-stack-cover.png](https://s3.amazonaws.com/spicedling/gFOfFA91YkNSLEeHm4IFcvM8EYnz5oq2.png)
 
 
-
+<p align="center">
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-aburesha&theme=tokyonight&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-aburesha&layout=compact"/>
