@@ -1,6 +1,6 @@
 
 <h1 align="center">Howdy and welcome!</h1>
-<h3 align="center">*Git* to know me and my code a bit better</h3>
+<h3 align="left">*Git* to know me and my code a bit better</h3>
 
 
 ![my-stack-cover.png](https://s3.amazonaws.com/spicedling/gFOfFA91YkNSLEeHm4IFcvM8EYnz5oq2.png)
