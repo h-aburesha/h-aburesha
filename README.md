@@ -7,6 +7,8 @@
 
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-aburesha&theme=tokyonight&show_icons=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-aburesha&layout=compact"/>
+
 <!--
 **h-aburesha/h-aburesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
