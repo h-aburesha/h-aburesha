@@ -3,6 +3,7 @@
 
 ![my-stack-cover.png](https://s3.amazonaws.com/spicedling/gFOfFA91YkNSLEeHm4IFcvM8EYnz5oq2.png)
 
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-aburesha)
 <!--
 **h-aburesha/h-aburesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
