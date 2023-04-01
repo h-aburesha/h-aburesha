@@ -1,5 +1,5 @@
 
-## Welcome to my profile!</h2>
+## Hi there 👋
 ## Full-Stack Web Developer & UX/UI Designer (Berlin based).
 ### -- Git to know me and my code a bit better
 
