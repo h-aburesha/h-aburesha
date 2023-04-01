@@ -1,10 +1,10 @@
 
 <h2>Welcome to my profile!</h1>
-<h3 align="left">*Git* to know me and my code a bit better</h3>
+<h3 align="left"> -- Git to know me and my code a bit better</h3>
 
-- 🔭 I’m currently working on my personal website using NextJS
+- 🔭 I’m currently working on <a href="https://github.com/h-aburesha/my-next-website" target="_blank">my personal website</a> using NextJS
 - 🌱 I’m currently playing around with ThreeJS along with a React Native Cli
-- 📫 How to reach me: <a href="mailto:hassan.aburesha@gmail.com" target="_blank"><button>EMAIL</button></a>
+- 📫 How to reach me: <a href="mailto:hassan.aburesha@gmail.com" target="_blank"><button>by E-mail</button></a>
 
 
 
