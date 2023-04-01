@@ -1,6 +1,6 @@
 
-# Welcome to my profile!</h2>
-## >Full-Stack Web Developer & UX/UI Designer (Berlin based).
+## Welcome to my profile!</h2>
+## Full-Stack Web Developer & UX/UI Designer (Berlin based).
 ### -- Git to know me and my code a bit better
 
 - 🔭 I’m currently working on <a href="https://github.com/h-aburesha/my-next-website" target="_blank">my personal website</a> using NextJS
