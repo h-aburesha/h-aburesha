@@ -1,5 +1,5 @@
 
-<h1 align="center">Howdy and welcome!</h1>
+<h2>Welcome to my profile!</h1>
 <h3 align="left">*Git* to know me and my code a bit better</h3>
 
 
