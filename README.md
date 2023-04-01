@@ -1,5 +1,6 @@
 
-<h2>Welcome to my profile!</h1>
+<h2>Welcome to my profile!</h2>
+<h2>Full-Stack Web Developer & UX/UI Designer (Berlin based).</h3>
 <h3 align="left"> -- Git to know me and my code a bit better</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/h-aburesha/my-next-website" target="_blank">my personal website</a> using NextJS
