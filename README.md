@@ -2,10 +2,13 @@
 <h2>Welcome to my profile!</h1>
 <h3 align="left">*Git* to know me and my code a bit better</h3>
 
+- 🔭 I’m currently working on my personal website using NextJS
+- 🌱 I’m currently playing around with ThreeJS along with a React Native Cli
+- 📫 How to reach me: <a href="mailto:hassan.aburesha@gmail.com" target="_blank"><button>EMAIL</button></a>
+
+
 
 ![my-stack-cover.png](https://s3.amazonaws.com/spicedling/gFOfFA91YkNSLEeHm4IFcvM8EYnz5oq2.png)
-
-
 
 <!--
 **h-aburesha/h-aburesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
