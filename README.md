@@ -1,5 +1,5 @@
 
-## Hi there! 👋
+## Hi! 👋
 ## Full-Stack Web Developer & UX/UI Designer based in Berlin.
 ### -- Git to know me and my code a bit better
 
