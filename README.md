@@ -1,5 +1,4 @@
 
-## Hi! 👋
 ## Full-Stack Web Developer & UX/UI Designer based in Berlin.
 
 - 🔭 I’m currently working on <a href="https://github.com/h-aburesha/my-next-website" target="_blank">my personal website</a> using NextJS
