@@ -1,7 +1,6 @@
 
 ## Hi! 👋
 ## Full-Stack Web Developer & UX/UI Designer based in Berlin.
-### -- Git to know me and my code a bit better
 
 - 🔭 I’m currently working on <a href="https://github.com/h-aburesha/my-next-website" target="_blank">my personal website</a> using NextJS
 - 🌱 I’m currently learning <a href="https://threejs.org" target="_blank">three.js</a> and working on another <a href="https://github.com/h-aburesha/BoldApp" target="_blank">React Native Cli</a>
