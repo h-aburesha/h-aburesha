@@ -5,7 +5,7 @@
 - ⚙️ My <a href="https://www.aburesha.com/" target="_blank"><button>Website</button></a>
 
 
-<img src="https://s3.amazonaws.com/spicedling/gFOfFA91YkNSLEeHm4IFcvM8EYnz5oq2.png" alt="my-stack-cover.png" style="width:70%; height:70%;">
+<img src="https://s3.amazonaws.com/spicedling/gFOfFA91YkNSLEeHm4IFcvM8EYnz5oq2.png" alt="my-stack-cover.png" style="width:100%; height:70%;">
 
 <!--
 **h-aburesha/h-aburesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
