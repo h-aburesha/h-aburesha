@@ -1,5 +1,5 @@
 
-## Full-Stack Software Developer based in Berlin.
+## Frontend Software Developer based in Berlin.
 
 - 📫 How to reach me: <a href="mailto:hassan.aburesha@gmail.com" target="_blank"><button>by E-mail</button></a>
 - ⚙️ My <a href="https://www.aburesha.com/" target="_blank"><button>Website</button></a>
